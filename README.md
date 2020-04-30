@@ -1,6 +1,6 @@
 # 💻 Projeto MVC realizado para a aula de Java Web
 
-# Grupo
+# 😝 Grupo
 * Julia Monaco
 * Giullia Gabriela
 * Lucas Teixeira
